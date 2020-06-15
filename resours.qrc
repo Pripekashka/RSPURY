@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="New">
+    <file>icons/save.png</file>
+    <file>icons/plus (2).png</file>
+    <file>icons/plus (1).png</file>
+    <file>icons/delete (1).png</file>
+    <file>icons/about.png</file>
+    <file>icons/icon (7).png</file>
+    <file>icons/imgonline-com-ua-Transparent-backgr-hYkjTbbK8dm.png</file>
+    <file>icons/play-button.png</file>
+    <file>icons/emergency-exit.png</file>
+    <file>icons/analysis-process.png</file>
+    <file>icons/building.png</file>
+    <file>icons/businessman.png</file>
+    <file>icons/cabinet.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/icon (1).png</file>
+    <file>icons/icon.png</file>
+    <file>icons/lecturer-with-screen.png</file>
+    <file>icons/number-one-inside-a-circle.png</file>
+    <file>icons/open-book.png</file>
+    <file>icons/pen.png</file>
+    <file>icons/plus.png</file>
+    <file>icons/podium.png</file>
+    <file>icons/redo.png</file>
+    <file>icons/search.png</file>
+    <file>icons/speech-and-audience.png</file>
+    <file>icons/student-with-graduation-cap.png</file>
+    <file>icons/woker.png</file>
+  </qresource>
+</RCC>

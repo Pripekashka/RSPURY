@@ -1,0 +1,1 @@
+python -m PyQt5.uic.pyuic -x spbgltu.ui -o spbgltu.py
